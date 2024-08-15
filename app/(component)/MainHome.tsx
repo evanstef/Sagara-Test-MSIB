@@ -54,7 +54,7 @@ const MainHome = () => {
       ease: "power2.inOut",
       scrollTrigger: {
         trigger: ".about",
-        start: "top bottom",
+        start: "top 70%",
         end: "center top",
         toggleActions: "play none none reverse",
       }
@@ -67,7 +67,7 @@ const MainHome = () => {
       ease: "power2.inOut",
       scrollTrigger: {
         trigger: ".about",
-        start: "top bottom",
+        start: "top 70%",
         end: "center top",
         toggleActions: "play none none reverse",
       
@@ -83,7 +83,7 @@ const MainHome = () => {
       ease: "power2.inOut",
       scrollTrigger: {
         trigger: ".why-sagara",
-        start: "top bottom",
+        start: "top 70%",
         end: "center top",
         toggleActions: "play none none reverse",
      
@@ -98,7 +98,7 @@ const MainHome = () => {
       ease: "power2.inOut",
       scrollTrigger: {
         trigger: ".why-sagara",
-        start: "top bottom",
+        start: "top 70%",
         end: "center top",
         toggleActions: "play none none reverse",
       }
@@ -112,7 +112,7 @@ const MainHome = () => {
       ease: "power2.inOut",
       scrollTrigger: {
         trigger: ".why-sagara",
-        start: "top bottom",
+        start: "top 70%",
         end: "center top",
         toggleActions: "play none none reverse",
       }
@@ -125,7 +125,7 @@ const MainHome = () => {
       ease: "power2.inOut",
       scrollTrigger: {
         trigger: ".why-sagara",
-        start: "top bottom",
+        start: "top 70%",
         end: "center top",
         toggleActions: "play none none reverse",
       }
@@ -140,7 +140,7 @@ const MainHome = () => {
       ease: "power2.inOut",
       scrollTrigger: {
         trigger: ".how",
-        start: "top bottom",
+        start: "top 70%",
         end: "center top",
         toggleActions: "play none none reverse",
       }
@@ -153,7 +153,7 @@ const MainHome = () => {
       ease: "power2.inOut",
       scrollTrigger: {
         trigger: ".how-it-sagara",
-        start: "top bottom",
+        start: "top 70%",
         end: "center top",
         toggleActions: "play none none reverse",
       }
@@ -166,7 +166,7 @@ const MainHome = () => {
       ease: "power2.inOut",
       scrollTrigger: {
         trigger: ".how-it-sagara",
-        start: "top bottom",
+        start: "top 70%",
         end: "center top",
         toggleActions: "play none none reverse",
       }
@@ -181,7 +181,7 @@ const MainHome = () => {
       ease: "power2.inOut",
       scrollTrigger: {
         trigger: ".pilihan-menu-course",
-        start: "top center",
+        start: "top 70%",
         end: "center top",
         toggleActions: "play none none reverse",
       }
