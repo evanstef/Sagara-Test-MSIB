@@ -27,7 +27,7 @@ const TabMenu = () => {
       ease: "power2.inOut",
       scrollTrigger: {
         trigger: ".pilihan-menu-course",
-        start: "top center",
+        start: "top bottom",
         end: "center top",
         toggleActions: "play none none reverse",
       }
